@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Northwind DW Solution\\Northwind_SSAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1D0B91-E6E3-24E0-9CA4-8F8B35409204}|Northwind_SSAS.dwproj|C:\\Northwind DW Solution\\Northwind_SSAS\\Dim Employee.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{DB1D0B91-E6E3-24E0-9CA4-8F8B35409204}|Northwind_SSAS.dwproj|solutionrelative:Dim Employee.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1D0B91-E6E3-24E0-9CA4-8F8B35409204}|Northwind_SSAS.dwproj|C:\\Northwind DW Solution\\Northwind_SSAS\\Cube_Northwind.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{DB1D0B91-E6E3-24E0-9CA4-8F8B35409204}|Northwind_SSAS.dwproj|solutionrelative:Cube_Northwind.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1D0B91-E6E3-24E0-9CA4-8F8B35409204}|Northwind_SSAS.dwproj|C:\\Northwind DW Solution\\Northwind_SSAS\\DSV_Northwind_DW.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{DB1D0B91-E6E3-24E0-9CA4-8F8B35409204}|Northwind_SSAS.dwproj|solutionrelative:DSV_Northwind_DW.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1D0B91-E6E3-24E0-9CA4-8F8B35409204}|Northwind_SSAS.dwproj|C:\\Northwind DW Solution\\Northwind_SSAS\\Fact Sales.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{DB1D0B91-E6E3-24E0-9CA4-8F8B35409204}|Northwind_SSAS.dwproj|solutionrelative:Fact Sales.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1D0B91-E6E3-24E0-9CA4-8F8B35409204}|Northwind_SSAS.dwproj|C:\\Northwind DW Solution\\Northwind_SSAS\\Dim Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{DB1D0B91-E6E3-24E0-9CA4-8F8B35409204}|Northwind_SSAS.dwproj|solutionrelative:Dim Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1D0B91-E6E3-24E0-9CA4-8F8B35409204}|Northwind_SSAS.dwproj|C:\\Northwind DW Solution\\Northwind_SSAS\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{DB1D0B91-E6E3-24E0-9CA4-8F8B35409204}|Northwind_SSAS.dwproj|solutionrelative:Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1D0B91-E6E3-24E0-9CA4-8F8B35409204}|Northwind_SSAS.dwproj|C:\\Northwind DW Solution\\Northwind_SSAS\\Dim Shipment.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{DB1D0B91-E6E3-24E0-9CA4-8F8B35409204}|Northwind_SSAS.dwproj|solutionrelative:Dim Shipment.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1D0B91-E6E3-24E0-9CA4-8F8B35409204}|Northwind_SSAS.dwproj|C:\\Northwind DW Solution\\Northwind_SSAS\\Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{DB1D0B91-E6E3-24E0-9CA4-8F8B35409204}|Northwind_SSAS.dwproj|solutionrelative:Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1D0B91-E6E3-24E0-9CA4-8F8B35409204}|Northwind_SSAS.dwproj|C:\\Northwind DW Solution\\Northwind_SSAS\\admin.role||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{DB1D0B91-E6E3-24E0-9CA4-8F8B35409204}|Northwind_SSAS.dwproj|solutionrelative:admin.role||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fact Sales.dim [Design]",
+              "DocumentMoniker": "C:\\Northwind DW Solution\\Northwind_SSAS\\Fact Sales.dim",
+              "RelativeDocumentMoniker": "Fact Sales.dim",
+              "ToolTip": "C:\\Northwind DW Solution\\Northwind_SSAS\\Fact Sales.dim [Design]",
+              "RelativeToolTip": "Fact Sales.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-02T09:52:10.698Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dim Date.dim [Design]",
+              "DocumentMoniker": "C:\\Northwind DW Solution\\Northwind_SSAS\\Dim Date.dim",
+              "RelativeDocumentMoniker": "Dim Date.dim",
+              "ToolTip": "C:\\Northwind DW Solution\\Northwind_SSAS\\Dim Date.dim [Design]",
+              "RelativeToolTip": "Dim Date.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-02T08:49:15.577Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dim Employee.dim [Design]",
+              "DocumentMoniker": "C:\\Northwind DW Solution\\Northwind_SSAS\\Dim Employee.dim",
+              "RelativeDocumentMoniker": "Dim Employee.dim",
+              "ToolTip": "C:\\Northwind DW Solution\\Northwind_SSAS\\Dim Employee.dim [Design]",
+              "RelativeToolTip": "Dim Employee.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-02T08:49:01.347Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dim Product.dim [Design]",
+              "DocumentMoniker": "C:\\Northwind DW Solution\\Northwind_SSAS\\Dim Product.dim",
+              "RelativeDocumentMoniker": "Dim Product.dim",
+              "ToolTip": "C:\\Northwind DW Solution\\Northwind_SSAS\\Dim Product.dim [Design]",
+              "RelativeToolTip": "Dim Product.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-02T08:40:56.748Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cube_Northwind.cube [Design]",
+              "DocumentMoniker": "C:\\Northwind DW Solution\\Northwind_SSAS\\Cube_Northwind.cube",
+              "RelativeDocumentMoniker": "Cube_Northwind.cube",
+              "ToolTip": "C:\\Northwind DW Solution\\Northwind_SSAS\\Cube_Northwind.cube [Design]",
+              "RelativeToolTip": "Cube_Northwind.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-02T08:38:42.601Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DSV_Northwind_DW.dsv [Design]",
+              "DocumentMoniker": "C:\\Northwind DW Solution\\Northwind_SSAS\\DSV_Northwind_DW.dsv",
+              "RelativeDocumentMoniker": "DSV_Northwind_DW.dsv",
+              "ToolTip": "C:\\Northwind DW Solution\\Northwind_SSAS\\DSV_Northwind_DW.dsv [Design]",
+              "RelativeToolTip": "DSV_Northwind_DW.dsv [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-01T23:04:56.148Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dim Shipment.dim [Design]",
+              "DocumentMoniker": "C:\\Northwind DW Solution\\Northwind_SSAS\\Dim Shipment.dim",
+              "RelativeDocumentMoniker": "Dim Shipment.dim",
+              "ToolTip": "C:\\Northwind DW Solution\\Northwind_SSAS\\Dim Shipment.dim [Design]",
+              "RelativeToolTip": "Dim Shipment.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-02T08:41:55.815Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dim Customer.dim [Design]",
+              "DocumentMoniker": "C:\\Northwind DW Solution\\Northwind_SSAS\\Dim Customer.dim",
+              "RelativeDocumentMoniker": "Dim Customer.dim",
+              "ToolTip": "C:\\Northwind DW Solution\\Northwind_SSAS\\Dim Customer.dim [Design]",
+              "RelativeToolTip": "Dim Customer.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-02T08:48:57.662Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "admin.role [Design]",
+              "DocumentMoniker": "C:\\Northwind DW Solution\\Northwind_SSAS\\admin.role",
+              "RelativeDocumentMoniker": "admin.role",
+              "ToolTip": "C:\\Northwind DW Solution\\Northwind_SSAS\\admin.role [Design]",
+              "RelativeToolTip": "admin.role [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-02T00:13:19.619Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
